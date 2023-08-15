@@ -50,10 +50,9 @@ env\Scripts\activate
 # To see What I am Build?Lets Watch the video below
 
 
-<video controls autoplay>
-  <source src="https://github.com/moinul75/file-sharing-drf/assets/102654562/264fecf9-7dc7-47c0-8d2f-9494876d3fb7)https://github.com/moinul75/file-sharing-drf/assets/102654562/264fecf9-7dc7-47c0-8d2f-9494876d3fb7" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+
+
+https://github.com/moinul75/file-sharing-drf/assets/102654562/7c1cb260-2ae7-42be-b7ef-a0906e4b29f7
 
 
