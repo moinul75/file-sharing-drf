@@ -16,9 +16,7 @@ git clone https://github.com/moinul75/file-sharing-drf/
 Then create a virtual env for this projects 
 
 <pre>
-```bash
 python -m venv env
-```
 </pre>
 
 go to the prjects directory 
