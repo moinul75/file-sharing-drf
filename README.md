@@ -1,4 +1,4 @@
-﻿# file-sharing-drf
+﻿# File Sharing DRF(Django Rest Framework)
 
 This is a simple file sharing projects using Django Rest Framework in the backend and frontend I use html css and javascripts(ajax) 
 
