@@ -50,7 +50,7 @@ env\Scripts\activate
 
 https://github.com/moinul75/file-sharing-drf/assets/102654562/7c1cb260-2ae7-42be-b7ef-a0906e4b29f7
 
-[New Video Title](https://github.com/moinul75/file-sharing-drf/assets/102654562/7c1cb260-2ae7-42be-b7ef-a0906e4b29f7)
+
 
 
 
