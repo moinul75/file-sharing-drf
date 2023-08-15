@@ -1,9 +1,9 @@
 ﻿# File Sharing DRF(Django Rest Framework)
 
-This is a simple file sharing projects using Django Rest Framework in the backend and frontend I use html css and javascripts(ajax) 
+**This is a simple file sharing projects using Django Rest Framework in the backend and frontend I use html css and javascripts(ajax)**
 
 # How to start This projects on your local server 
-first of all you need to clone this repo : using git clone command 
+__first of all you need to clone this repo : using git clone command__
 <pre>
 git clone https://github.com/moinul75/file-sharing-drf/
 </pre>
