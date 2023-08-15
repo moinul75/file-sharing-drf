@@ -13,6 +13,10 @@ Then create a virtual env for this projects
 <pre>
 python -m venv env
 </pre>
+**Now Active This env **
+<pre>
+env\Scripts\activate  
+</pre>
 
 go to the prjects directory 
 <pre>
