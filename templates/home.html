@@ -163,14 +163,14 @@ body p {
     } 
 
     function copy_url() {
-      console.log('dd')
-      //copy the upload_link url
-      navigator.clipboard.writeText(url);
-
-      //when copy file show an alert 
-      alert('FIle is copied...The Url: '+url)
-
-    } 
+      var textarea = document.createElement('textarea');
+      textarea.value = url;
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
+      alert('File URL has been copied: ' + url);
+  }
 
   
   </script>
