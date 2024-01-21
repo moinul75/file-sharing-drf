@@ -151,7 +151,7 @@ body p {
           body: formdata
         }).then(res => res.json())
           .then(result => {
-            base_url = 'http://127.0.0.1:8000/dwonload'
+            base_url = 'https://file-share-zqh0.onrender.com/dwonload'
             url = `${base_url}/${result.data.folder}/`;
             document.getElementById('btn').style.display = 'none';
 
